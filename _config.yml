@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: "/mirutree"
+baseurl: "/"
 url : "https://mirutree.github.io"
 
 # Blog Settings
