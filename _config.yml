@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Wonhee Lee
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : "It's not open yet"
     experience :
       - start : 2017-05-03
         end : 2018-05-06
