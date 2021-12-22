@@ -1,12 +1,13 @@
 ---
 layout: post
-title: [YuldoStudy]AWS - EC2 인스턴스 생성
+title: (YuldoStudy) AWS - EC2 인스턴스 생성
 subtitle : AWS - EC2에서 인스턴스 생성 과정과 탄력적ip 설정
 tags: [yuldo study, aws]
 author: mirutree
 comments : True
 ---
-
+   
+   
 #### EC2(Amazon EC2)란? (위키백과 참고)
  - EC2는 Amazon Elastic Compute Cloud의 약자로 AWS(아마존 웹 서비스)에서 제공하는 서비스이다.
  - 사용자가 가상 컴퓨터를 임대받아 그 위에 자신만의 애플리케이션을 실행할 수 있게 한다.
