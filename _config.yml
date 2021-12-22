@@ -4,17 +4,17 @@ url : "https://mirutree.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Mirutree's BLOG
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Wonhee Lee
+    image : assets/img/mimo.png
+    username : Mirutree
     description : "It's not open yet"
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
+      - start : 2021-01-20
+        end : 
         experience : company name, title
     skills : 
       - skill : HTML5 & CSS
