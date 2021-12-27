@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (YuldoStudy) Xshell을 이용하여 AWS EC2서버에 접속
+title: (YuldoStudy) Xshell - AWS EC2서버에 접속, Nginx 설치
 subtitle : Xshell을 이용하여 AWS EC2 ubuntu 서버에 접속해서 Nginx를 설치한다.
 tags: [yuldo study]
 author: mirutree
@@ -101,11 +101,6 @@ nginx -V
    
 &nbsp;&nbsp;
 
-### Certbot을 이용한 Let’s Encrypt 와일드 카드 인증서 발급
-
-
-
-  
 
 
 
