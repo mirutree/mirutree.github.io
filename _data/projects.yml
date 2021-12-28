@@ -1,6 +1,20 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/mirutree/Arori # Full URL
+    image : # path: assets/project/
+    date : 2020.09.00 - Developing
+    title : ARORI
+    summary : 🦉LMS 기반 소셜네트워크 퀴즈 플랫폼
+    description : 🦉 당신의 지식 | Arori 🦉 비대면 서비스의 관심이 증가하고 있는 최근, 개인과 단체 모두 손쉽게 이용할 수 있는 문제 공유 플랫폼입니다.
+    contents : 
+        - title : 
+          image : 
+          description : 
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/naye0ng/Grape-Theme # Full URL
     image : "portfolio.png" # path: assets/project/
     date : 2019.06.09 - Developing
@@ -28,7 +42,7 @@
             <li>gem 배포</li> 
 
 - project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
