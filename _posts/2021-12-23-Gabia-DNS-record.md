@@ -2,7 +2,7 @@
 layout: post
 title: (YuldoStudy) Gabia - DNS 레코드 설정
 subtitle : 도메인에 ip연결하기
-tags: [yuldo study, gabia dns]
+tags: [yuldo study]
 author: mirutree
 comments : True
 ---
@@ -26,16 +26,18 @@ comments : True
  - 가비아 로그인 후 > `My가비아` > `DNS 관리툴` 버튼을 누른다.
  - 구입한 도메인의 `설정` 버튼을 누른다.
   ![image](https://user-images.githubusercontent.com/63778557/147191835-3af4fdd7-6629-4be3-9811-3b246d1d01d9.png)
+ - 레코드를 설정한다.
+ ![image](https://user-images.githubusercontent.com/63778557/147531019-518cd077-d691-4b4c-898e-50af5fc10fa4.png)
+   - A 레코드 설정
+     -  도메인 또는 서브도메인(하위도메인)에 IP주소를 지정하는 것
+     -  **@** : 2차도메인 없이 `mituree.com`이라는 주소에 입력된 ip주소에 연결
+     -  **www** : `www.mirutree.site`같이 서브도메인을 붙여서 값에 입력된 ip주소와 연결
+   - TXT 레코드 설정
+     - 사이트 소유권을 인증해야하는 경우 설정
+     - ex) Let's Encrypt 와일드카드 인증서 발급받을 때 : `_acme-challenge`라는 이름으로 발급받은 값을 넣는다.
+
    
 &nbsp;&nbsp;&nbsp;
-
-
-
-
-
-# DNS 방식을 이용한 Let's Encrypt 와일드카드 인증서 받은 후에 마저 포스팅하겠음
-
-
 
 
 
