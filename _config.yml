@@ -34,7 +34,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname: mirutree.github.io
 
 # Pagination
 paginate: 10
