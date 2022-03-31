@@ -17,7 +17,7 @@
       {% if node.title != null %}
       {% if node.layout == "category" %}
       <a class="category-link {% if page.url == node.url %} active{% endif %}"
-             href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+             href="{{ site.baseurl }}{{ node.url }}"><li class="btn-nav">Category</li></a>
       {% endif %}
       {% endif %}
       {% endfor %}
